@@ -11,7 +11,7 @@ Video course is available at -
 
 ✨ [Slack Community - Join our community to interact with myself and other students](https://community.diveinto.com)
 
-🆘 If you experience any challenges during the course that require support, please use the Slack community or the [Discussions](https://github.com/spurin/diveintokcna/discussions) section here on GitHub. I'd much rather know about any issue and in doing so, help yourself and others who encounter similar problems, Thanks!
+🆘 If you experience any challenges during the course that require support, please use the Slack community. I'd much rather know about any issue and in doing so, help yourself and others who encounter similar problems, Thanks!
 
 ---
 
